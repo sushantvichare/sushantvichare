@@ -135,13 +135,7 @@ const sushant = {
 
 <div align="center">
 
-<a href="https://github.com/sushantvichare/FitnessApp">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sushantvichare&repo=FitnessApp&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
 
-<a href="https://github.com/sushantvichare/crwn-clothing">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sushantvichare&repo=crwn-clothing&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
 
 </div>
 
