@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" alt="Typing SVG" />
 
-//[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshh.tech)//
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushantvichare.tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantvicahre10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-vichare-35055a78/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sushantvichare7)
@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 ```typescript
-const harsh = {
+const sushant = {
     location: "India 🇮🇳",
     currentFocus: "Open Source Contributions",
     learning: ["Data Science", "Statistics", AI/ML],
