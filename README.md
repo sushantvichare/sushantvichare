@@ -1,4 +1,12 @@
 ## 👋 Hi there, I'm Sushant Vichare!
+I’m a Full-Stack Developer from India with 4–5 years of hands-on development experience.
+I enjoy building scalable applications, learning new technologies, and solving real-world problems.
+
+🎓 Currently pursuing a Postgraduate Certification in Data Science, expanding my skills in data analysis, machine learning, and applied statistics.
+
+🚀 I’m actively looking to contribute to full-stack or data science projects, especially open-source or collaborative projects where I can learn, share, and grow.
+
+💡 Always curious. Always learning.
 
 <h3>When I code, I rely on</h3>
 <p>
